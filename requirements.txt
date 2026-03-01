@@ -4,4 +4,4 @@ python-dotenv
 numpy
 python-pptx
 openpyxl
-pypdfx
+pypdf
