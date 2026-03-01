@@ -1,7 +1,7 @@
-python-dotenv
 streamlit
 openai
 python-dotenv
-munpy
+numpy
 python-pptx
-openpxlpypdf
+openpyxl
+pypdfx
