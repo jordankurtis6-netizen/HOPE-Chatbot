@@ -2,14 +2,8 @@ import os
 import io
 import csv
 from dotenv import load_dotenv
-import os
+load_dotenv()
 
-load_dotenv()  # This loads the .env file
-
-api_key = os.getenv("OPENAI_API_KEY")
-
-if not api_key:
-    raise RuntimeError("OPENAI_API_KEY is not set.")
 from pathlib import Path
 from dataclasses import dataclass
 from typing import List, Tuple

@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+openai
+python-dotenv
+munpy
+python-pptx
+openpxlpypdf
